@@ -1,4 +1,10 @@
 import { createApp } from 'vue';
 import App from './App.vue';
-
+import './class-inheritance';
+import './extend-or-implement';
+import './basic-class';
+import './class-composition';
+import './custom-tostring';
+import './factory-methods';
+import './method-chaining';
 createApp(App).mount('#app');
